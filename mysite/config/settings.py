@@ -4,7 +4,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent.parent
 
 DEBUG = True
 
-APPS = []
+APPS = [
+    "home",
+]
 
 ROOT_URLCONF = "mysite.config.urls"
 
