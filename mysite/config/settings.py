@@ -10,4 +10,4 @@ APPS = [
 
 ROOT_URLCONF = "mysite.config.urls"
 
-WSGI_APPLICATION = "mysite.config.wsgi.application"        
+WSGI_APPLICATION = "mysite.config.wsgi.application"
