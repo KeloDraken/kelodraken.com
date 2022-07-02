@@ -6,6 +6,7 @@ DEBUG = True
 
 APPS = [
     "home",
+    "about",
 ]
 
 ROOT_URLCONF = "mysite.config.urls"
